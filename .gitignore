@@ -1,0 +1,11 @@
+*.txt
+.python-version
+*.pyc
+.py*Env
+*~
+*.DS_Store
+*_build*
+.eggs*
+mg_process_test.egg-info*
+.cache
+/tests/data/tmp
